@@ -1,2 +1,2 @@
 # Movie-app
-#Movie app using TheMovieDB API
+# Movie app using TheMovieDB API
