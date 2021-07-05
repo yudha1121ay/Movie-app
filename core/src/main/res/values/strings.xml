@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Movie Catalog</string>
+    <string name="title_activity_detail_movie">DetailMovie</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="judul">Judul</string>
+    <string name="release">Rilis</string>
+    <string name="durasi">Durasi :</string>
+    <string name="movies">List Movies</string>
+    <string name="tvshows">TV Shows</string>
+    <string name="favmovies">Favorite Movies</string>
+    <string name="favtvshows">Favorite TV Shows</string>
+    <string name="release_date">Release Date</string>
+    <string name="title_activity_detail_tv">DetailTv</string>
+    <string name="fav">Favorites</string>
+    <string name="menu_highest">Best Rating</string>
+    <string name="menu_lowest">Low Rating</string>
+    <string name="menu_random">Acak</string>
+    <string name="menu_favorite">Favorit</string>
+    <string name="moviesntvshows">Movies &amp; TV Shows</string>
+    <string name="saved">Disimpan</string>
+    <string name="save">Simpan</string>
+    <string name="rating">Rating</string>
+    <string name="ok">OK</string>
+    <string name="undo">Undo</string>
+    <string name="listmv">List Movies &amp; TV Shows</string>
+    <string name="yourfav">Your Favorites</string>
+</resources>
